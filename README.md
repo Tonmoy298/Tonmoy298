@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tonmoy Modak</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <img Align="right" alt="coding" width="400" src="https://weam.ai/app/uploads/2024/03/github-autofix-codeql.png">
-<img Align="right" alt="coding" width="400" src="<img Align="right" alt="coding" width="400" src="https://weam.ai/app/uploads/2024/03/github-autofix-codeql.png">">
+<img Align="right" alt="coding" width="400" src="<img Align="right" alt="coding" width="400" src="https://weam.ai/app/uploads/2024/03/github-autofix-codeql.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy298&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy298" /> </p>
 
 - 🌱 I’m currently learning **java, SQL**
